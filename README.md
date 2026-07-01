@@ -1,4 +1,3 @@
-Markdown
 # Multimodal Video Search & Sentiment Fusion Engine
 
 An engineering framework developed in **PyTorch** and **OpenCV** designed to ingest dual-modality signals (visual video frames and textual natural language queries) to map them into a synchronized joint embedding space. The system evaluates cross-modality alignment matrices using state-of-the-art vision-language matching foundations.
@@ -17,10 +16,17 @@ git clone [https://github.com/siddiquafathima/multimodal-video-fusion-engine.git
 # Install required deep learning and signal processing dependencies
 pip install torch torchvision transformers opencv-python pillow
 
-![Terminal Verification Output](assets/terminal_output. png)
+📊 Evaluation & Verification Metrics
+Execution Trace & Alignment Matrix Output
+Below is the execution verification showing the normalized statistical confidence score computed across the joint tensor inputs:
 
-![Code Structure 1](assets/code_structure1. png)
+![Terminal Verification Output](terminal_output.png)
 
-![Code Structure 2](assets/code_structure2. png)
+Architecture Environment Layout
+Development environment configuration matrix mapping the structural code boundaries:
 
-![Code Structure 3](assets/code_structure3. png)
+![Code Structure 1](code_structure1.png)
+
+![Code Structure 2](code_structure2.png)
+
+![Code Structure 3](code_structure3.png)
