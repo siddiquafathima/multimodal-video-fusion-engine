@@ -20,12 +20,10 @@ pip install torch torchvision transformers opencv-python pillow
 Execution Trace & Alignment Matrix Output
 Below is the execution verification showing the normalized statistical confidence score computed across the joint tensor inputs:
 
-![Terminal Verification Output](assent/terminal_output.png)
+![Terminal Verification Output](assets/terminal_output.png)
 
 Architecture Environment Layout
 Development environment configuration matrix mapping the structural code boundaries:
-
-![Terminal Verification Output](assets/terminal_output.png)
 
 ![Code Structure 1](assets/code_structure1.png)
 
