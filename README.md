@@ -17,8 +17,10 @@ git clone [https://github.com/siddiquafathima/multimodal-video-fusion-engine.git
 # Install required deep learning and signal processing dependencies
 pip install torch torchvision transformers opencv-python pillow
 
-![Terminal Verification Output](assets/terminal_output.png)
+![Terminal Verification Output](assets/terminal_output. png)
 
-![Code Structure](assets/code_structure1.png)
-![Code Structure](assets/code_structure2.png)
-![Code Structure](assets/code_structure3.png)
+![Code Structure 1](assets/code_structure1. png)
+
+![Code Structure 2](assets/code_structure2. png)
+
+![Code Structure 3](assets/code_structure3. png)
