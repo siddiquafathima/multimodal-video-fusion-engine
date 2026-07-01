@@ -25,10 +25,10 @@ Below is the execution verification showing the normalized statistical confidenc
 Architecture Environment Layout
 Development environment configuration matrix mapping the structural code boundaries:
 
-![Terminal Verification Output](assent/terminal_output. png)
+![Terminal Verification Output](assets/terminal_output.png)
 
-![Code Structure 1](assent/code_structure1. png)
+![Code Structure 1](assets/code_structure1.png)
 
-![Code Structure 2](assent/code_structure2. png)
+![Code Structure 2](assets/code_structure2.png)
 
-![Code Structure 3](assent/code_structure3. png)
+![Code Structure 3](assets/code_structure3.png)
